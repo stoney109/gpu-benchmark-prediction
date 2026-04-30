@@ -171,7 +171,7 @@ XGBoost (tuned) CV 0.8915 vs Linear Regression CV 0.8741. 본 데이터 규모(~
 
 ---
 
-## ⚠️ 한계
+## ⚠️ Limitations
 
 | 한계 | 설명 | 비고 |
 |------|------|----------|
@@ -182,7 +182,7 @@ XGBoost (tuned) CV 0.8915 vs Linear Regression CV 0.8741. 본 데이터 규모(~
 
 ---
 
-## 🛠️ 사용 기술
+## 🛠️ Tech Stack
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Statsmodels` `Matplotlib` `Seaborn`
 
