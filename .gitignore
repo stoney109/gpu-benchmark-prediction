@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project specific ---
+# 크롤링 원본 데이터는 재배포하지 않음 (crawling/ 스크립트로 재수집 가능)
+data/
+# 로컬 보관용 (구버전 코드·중간 산출물)
+archive/
+.idea/
+chromedriver-win64/
